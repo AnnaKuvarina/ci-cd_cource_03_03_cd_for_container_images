@@ -3,6 +3,7 @@
 
 name: Python application
 
+## to allow to use this workflow from other files
 on:
   workflow_call:
 
